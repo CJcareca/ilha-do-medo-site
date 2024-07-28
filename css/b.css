@@ -1,0 +1,315 @@
+body{
+	background-image: url(../img/forest-trees-animated-gif-8.gif); 
+	background-repeat: no-repeat;
+	background-position: center;
+	background-attachment: fixed;
+	background-size: cover;
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+}
+#banner img{
+	width: 25%;
+	height: auto;
+}
+#descrição{
+	color: white;
+}
+#bet{
+	display: flex;
+	height: 50%;
+	width: auto;
+}
+#bet img{
+	height: 720px;
+}
+h1 {
+	text-align: center;
+	color: white;
+}
+h2{
+	text-align: center;
+	color: white;
+}
+footer{
+	background-color: black;
+	text-align: center;
+	margin-top: 100px;
+}
+#ator1{
+	align-items: center;
+	display: flex;
+	flex-direction: column;
+}
+#ator1 img{
+	border-radius: 50%;
+	height: 150px;
+	width: 150px;
+}
+#ator2{
+	align-items: center;
+	display: flex;
+	flex-direction: column;
+}
+#ator2 img{
+	border-radius: 50%;
+	height: 150px;
+	width: 150px;
+}
+#ator3{
+	align-items: center;
+	display: flex;
+	flex-direction: column;
+}
+#ator3 img{
+	border-radius: 50%;
+	height: 150px;
+	width: 150px;
+}
+#ator4{
+	align-items: center;
+	display: flex;
+	flex-direction: column;
+}
+#ator4 img{
+	border-radius: 50%;
+	height: 150px;
+	width: 150px;
+}
+#ator5{
+	align-items: center;
+	display: flex;
+	flex-direction: column;
+}
+#ator5 img{
+	border-radius: 50%;
+	height: 150px;
+	width: 150px;
+}
+#ator6{
+	align-items: center;
+	display: flex;
+	flex-direction: column;
+}
+#ator6 img{
+	border-radius: 50%;
+	height: 150px;
+	width: 150px;
+}
+#ator7{
+	align-items: center;
+	display: flex;
+	flex-direction: column;
+}
+#ator7 img{
+	border-radius: 50%;
+	height: 150px;
+	width: 150px;
+}
+#ator8{
+	align-items: center;
+	display: flex;
+	flex-direction: column;
+}
+#ator8 img{
+	border-radius: 50%;
+	height: 150px;
+	width: 150px;
+}
+#ator9{
+	align-items: center;
+	display: flex;
+	flex-direction: column;
+}
+#ator9 img{
+	border-radius: 50%;
+	height: 150px;
+	width: 150px;
+}
+#ator10{
+	align-items: center;
+	display: flex;
+	flex-direction: column;
+}
+#ator10 img{
+	border-radius: 50%;
+	height: 150px;
+	width: 150px;
+}
+#ator11{
+	align-items: center;
+	display: flex;
+	flex-direction: column;
+}
+#ator11 img{
+	border-radius: 50%;
+	height: 150px;
+	width: 150px;
+}
+#ator12{
+	align-items: center;
+	display: flex;
+	flex-direction: column;
+}
+#ator12 img{
+	border-radius: 50%;
+	height: 150px;
+	width: 150px;
+}
+#ator13{
+	align-items: center;
+	display: flex;
+	flex-direction: column;
+}
+#ator13 img{
+	border-radius: 50%;
+	height: 150px;
+	width: 150px;
+}
+#ator14{
+	align-items: center;
+	display: flex;
+	flex-direction: column;
+}
+#ator14 img{
+	border-radius: 50%;
+	height: 150px;
+	width: 150px;
+}
+#ator15{
+	align-items: center;
+	display: flex;
+	flex-direction: column;
+}
+#ator15 img{
+	border-radius: 50%;
+	height: 150px;
+	width: 150px;
+}
+#ator16{
+	align-items: center;
+	display: flex;
+	flex-direction: column;
+}
+#ator16 img{
+	border-radius: 50%;
+	height: 150px;
+	width: 150px;
+}
+#ator17{
+	align-items: center;
+	display: flex;
+	flex-direction: column;
+}
+#ator17 img{
+	border-radius: 50%;
+	height: 150px;
+	width: 150px;
+}
+#ator18{
+	align-items: center;
+	display: flex;
+	flex-direction: column;
+}
+#ator18 img{
+	border-radius: 50%;
+	height: 150px;
+	width: 150px;
+}
+#atores1 {
+	margin: 20px;
+	width: 100%;
+	justify-content: space-around;
+	display: flex;
+	align-items: center;
+	flex-direction: column;
+}
+#atores2 {
+	width: 100%;
+	justify-content: space-around;
+	display: flex;
+	align-items: center;
+	flex-direction: column;
+}
+#atores3 {
+	margin: 20px;
+	width: 100%;
+	justify-content: space-around;
+	display: flex;
+	align-items: center;
+	flex-direction: column;
+}
+#atores4 {
+	margin: 20px;
+	width: 100%;
+	justify-content: space-around;
+	display: flex;
+	align-items: center;
+	flex-direction: column;
+}
+#atores5 {
+	margin: 20px;
+	width: 100%;
+	justify-content: space-around;
+	display: flex;
+	align-items: center;
+	flex-direction: column;
+}
+#atores6 {
+	margin: 20px;
+	height: 100%
+	width: 100%;
+	justify-content: space-around;
+	display: flex;
+	align-items: center;
+	flex-direction: column;
+}
+header{
+	width: 100%;
+	background-color: black;
+	display: flex;
+	justify-content: space-between;
+}
+#banner{
+	align-items: center;
+	display: flex;
+	justify-content: space-between;
+}
+#imageelogo{
+	display: flex;
+	align-items: center;
+	margin-right: 150px;
+}
+.corpo{
+	margin-top: 100px;
+	width: 75%;
+	text-align: center;
+	background-color: black;
+}
+a {
+	color: white;
+}
+#cinema {
+	width: 25%;
+	height: auto;
+	align-content: center;
+}
+#conteudo {
+display: flex;
+flex-direction: column;
+}
+h3{
+	color: white;
+}
+h4{
+	color: white;
+}
+.corpo2 h1{
+background-color: grey;
+}
+.corpo2 h2{
+background-color: grey;
+}
+.corpo2 {
+	background-color: black;
+}
